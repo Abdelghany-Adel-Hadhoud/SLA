@@ -1,0 +1,11 @@
+C:\Users\toqah\OneDrive\Desktop\TeJoury Task\Backend\SLACalculator\SLACalculator.Domain\bin\Debug\net9.0\SLACalculator.Domain.deps.json
+C:\Users\toqah\OneDrive\Desktop\TeJoury Task\Backend\SLACalculator\SLACalculator.Domain\bin\Debug\net9.0\SLACalculator.Domain.dll
+C:\Users\toqah\OneDrive\Desktop\TeJoury Task\Backend\SLACalculator\SLACalculator.Domain\bin\Debug\net9.0\SLACalculator.Domain.pdb
+C:\Users\toqah\OneDrive\Desktop\TeJoury Task\Backend\SLACalculator\SLACalculator.Domain\obj\Debug\net9.0\SLACalculator.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toqah\OneDrive\Desktop\TeJoury Task\Backend\SLACalculator\SLACalculator.Domain\obj\Debug\net9.0\SLACalculator.Domain.AssemblyInfoInputs.cache
+C:\Users\toqah\OneDrive\Desktop\TeJoury Task\Backend\SLACalculator\SLACalculator.Domain\obj\Debug\net9.0\SLACalculator.Domain.AssemblyInfo.cs
+C:\Users\toqah\OneDrive\Desktop\TeJoury Task\Backend\SLACalculator\SLACalculator.Domain\obj\Debug\net9.0\SLACalculator.Domain.csproj.CoreCompileInputs.cache
+C:\Users\toqah\OneDrive\Desktop\TeJoury Task\Backend\SLACalculator\SLACalculator.Domain\obj\Debug\net9.0\SLACalculator.Domain.dll
+C:\Users\toqah\OneDrive\Desktop\TeJoury Task\Backend\SLACalculator\SLACalculator.Domain\obj\Debug\net9.0\refint\SLACalculator.Domain.dll
+C:\Users\toqah\OneDrive\Desktop\TeJoury Task\Backend\SLACalculator\SLACalculator.Domain\obj\Debug\net9.0\SLACalculator.Domain.pdb
+C:\Users\toqah\OneDrive\Desktop\TeJoury Task\Backend\SLACalculator\SLACalculator.Domain\obj\Debug\net9.0\ref\SLACalculator.Domain.dll

@@ -1,0 +1,15 @@
+C:\Users\toqah\OneDrive\Desktop\TeJoury Task\Backend\SLACalculator\SLACalculator.Application\bin\Debug\net9.0\SLACalculator.Application.deps.json
+C:\Users\toqah\OneDrive\Desktop\TeJoury Task\Backend\SLACalculator\SLACalculator.Application\bin\Debug\net9.0\SLACalculator.Application.dll
+C:\Users\toqah\OneDrive\Desktop\TeJoury Task\Backend\SLACalculator\SLACalculator.Application\bin\Debug\net9.0\SLACalculator.Application.pdb
+C:\Users\toqah\OneDrive\Desktop\TeJoury Task\Backend\SLACalculator\SLACalculator.Application\bin\Debug\net9.0\SLACalculator.Domain.dll
+C:\Users\toqah\OneDrive\Desktop\TeJoury Task\Backend\SLACalculator\SLACalculator.Application\bin\Debug\net9.0\SLACalculator.Domain.pdb
+C:\Users\toqah\OneDrive\Desktop\TeJoury Task\Backend\SLACalculator\SLACalculator.Application\obj\Debug\net9.0\SLACalculator.Application.csproj.AssemblyReference.cache
+C:\Users\toqah\OneDrive\Desktop\TeJoury Task\Backend\SLACalculator\SLACalculator.Application\obj\Debug\net9.0\SLACalculator.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toqah\OneDrive\Desktop\TeJoury Task\Backend\SLACalculator\SLACalculator.Application\obj\Debug\net9.0\SLACalculator.Application.AssemblyInfoInputs.cache
+C:\Users\toqah\OneDrive\Desktop\TeJoury Task\Backend\SLACalculator\SLACalculator.Application\obj\Debug\net9.0\SLACalculator.Application.AssemblyInfo.cs
+C:\Users\toqah\OneDrive\Desktop\TeJoury Task\Backend\SLACalculator\SLACalculator.Application\obj\Debug\net9.0\SLACalculator.Application.csproj.CoreCompileInputs.cache
+C:\Users\toqah\OneDrive\Desktop\TeJoury Task\Backend\SLACalculator\SLACalculator.Application\obj\Debug\net9.0\SLACalcu.22C13778.Up2Date
+C:\Users\toqah\OneDrive\Desktop\TeJoury Task\Backend\SLACalculator\SLACalculator.Application\obj\Debug\net9.0\SLACalculator.Application.dll
+C:\Users\toqah\OneDrive\Desktop\TeJoury Task\Backend\SLACalculator\SLACalculator.Application\obj\Debug\net9.0\refint\SLACalculator.Application.dll
+C:\Users\toqah\OneDrive\Desktop\TeJoury Task\Backend\SLACalculator\SLACalculator.Application\obj\Debug\net9.0\SLACalculator.Application.pdb
+C:\Users\toqah\OneDrive\Desktop\TeJoury Task\Backend\SLACalculator\SLACalculator.Application\obj\Debug\net9.0\ref\SLACalculator.Application.dll

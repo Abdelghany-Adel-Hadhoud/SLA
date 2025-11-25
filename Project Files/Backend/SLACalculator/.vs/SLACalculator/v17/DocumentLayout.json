@@ -1,0 +1,445 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\toqah\\OneDrive\\Desktop\\TeJoury Task\\Backend\\SLACalculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F566B338-E67E-4F4E-9622-1EB17875A8AD}|SLACalculator.Application\\SLACalculator.Application.csproj|c:\\users\\toqah\\onedrive\\desktop\\tejoury task\\backend\\slacalculator\\slacalculator.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F566B338-E67E-4F4E-9622-1EB17875A8AD}|SLACalculator.Application\\SLACalculator.Application.csproj|solutionrelative:slacalculator.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F566B338-E67E-4F4E-9622-1EB17875A8AD}|SLACalculator.Application\\SLACalculator.Application.csproj|c:\\users\\toqah\\onedrive\\desktop\\tejoury task\\backend\\slacalculator\\slacalculator.application\\common\\interfaces\\islacalculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F566B338-E67E-4F4E-9622-1EB17875A8AD}|SLACalculator.Application\\SLACalculator.Application.csproj|solutionrelative:slacalculator.application\\common\\interfaces\\islacalculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F566B338-E67E-4F4E-9622-1EB17875A8AD}|SLACalculator.Application\\SLACalculator.Application.csproj|c:\\users\\toqah\\onedrive\\desktop\\tejoury task\\backend\\slacalculator\\slacalculator.application\\features\\sla\\queries\\calculateslaqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F566B338-E67E-4F4E-9622-1EB17875A8AD}|SLACalculator.Application\\SLACalculator.Application.csproj|solutionrelative:slacalculator.application\\features\\sla\\queries\\calculateslaqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D24D4BDB-63B4-4F75-8B0B-A81F3D78EA64}|SLACalculator\\SLACalculator.csproj|c:\\users\\toqah\\onedrive\\desktop\\tejoury task\\backend\\slacalculator\\slacalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D24D4BDB-63B4-4F75-8B0B-A81F3D78EA64}|SLACalculator\\SLACalculator.csproj|solutionrelative:slacalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5318D4BF-6DBD-4B76-BD38-AC5E522FAAA4}|SLACalculator.Infrastructure\\SLACalculator.Infrastructure.csproj|c:\\users\\toqah\\onedrive\\desktop\\tejoury task\\backend\\slacalculator\\slacalculator.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5318D4BF-6DBD-4B76-BD38-AC5E522FAAA4}|SLACalculator.Infrastructure\\SLACalculator.Infrastructure.csproj|solutionrelative:slacalculator.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D24D4BDB-63B4-4F75-8B0B-A81F3D78EA64}|SLACalculator\\SLACalculator.csproj|c:\\users\\toqah\\onedrive\\desktop\\tejoury task\\backend\\slacalculator\\slacalculator\\controllers\\slacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D24D4BDB-63B4-4F75-8B0B-A81F3D78EA64}|SLACalculator\\SLACalculator.csproj|solutionrelative:slacalculator\\controllers\\slacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5318D4BF-6DBD-4B76-BD38-AC5E522FAAA4}|SLACalculator.Infrastructure\\SLACalculator.Infrastructure.csproj|c:\\users\\toqah\\onedrive\\desktop\\tejoury task\\backend\\slacalculator\\slacalculator.infrastructure\\slacalculator.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5318D4BF-6DBD-4B76-BD38-AC5E522FAAA4}|SLACalculator.Infrastructure\\SLACalculator.Infrastructure.csproj|solutionrelative:slacalculator.infrastructure\\slacalculator.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D19C4B-F37A-4803-BEC3-318F2AB19742}|SLACalculator.Domain\\SLACalculator.Domain.csproj|c:\\users\\toqah\\onedrive\\desktop\\tejoury task\\backend\\slacalculator\\slacalculator.domain\\entities\\complaint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D19C4B-F37A-4803-BEC3-318F2AB19742}|SLACalculator.Domain\\SLACalculator.Domain.csproj|solutionrelative:slacalculator.domain\\entities\\complaint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F566B338-E67E-4F4E-9622-1EB17875A8AD}|SLACalculator.Application\\SLACalculator.Application.csproj|c:\\users\\toqah\\onedrive\\desktop\\tejoury task\\backend\\slacalculator\\slacalculator.application\\dtos\\calculateslaresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F566B338-E67E-4F4E-9622-1EB17875A8AD}|SLACalculator.Application\\SLACalculator.Application.csproj|solutionrelative:slacalculator.application\\dtos\\calculateslaresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D24D4BDB-63B4-4F75-8B0B-A81F3D78EA64}|SLACalculator\\SLACalculator.csproj|c:\\users\\toqah\\onedrive\\desktop\\tejoury task\\backend\\slacalculator\\slacalculator\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D24D4BDB-63B4-4F75-8B0B-A81F3D78EA64}|SLACalculator\\SLACalculator.csproj|solutionrelative:slacalculator\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D24D4BDB-63B4-4F75-8B0B-A81F3D78EA64}|SLACalculator\\SLACalculator.csproj|c:\\users\\toqah\\onedrive\\desktop\\tejoury task\\backend\\slacalculator\\slacalculator\\slacalculator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D24D4BDB-63B4-4F75-8B0B-A81F3D78EA64}|SLACalculator\\SLACalculator.csproj|solutionrelative:slacalculator\\slacalculator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5318D4BF-6DBD-4B76-BD38-AC5E522FAAA4}|SLACalculator.Infrastructure\\SLACalculator.Infrastructure.csproj|c:\\users\\toqah\\onedrive\\desktop\\tejoury task\\backend\\slacalculator\\slacalculator.infrastructure\\services\\slacalculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5318D4BF-6DBD-4B76-BD38-AC5E522FAAA4}|SLACalculator.Infrastructure\\SLACalculator.Infrastructure.csproj|solutionrelative:slacalculator.infrastructure\\services\\slacalculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5318D4BF-6DBD-4B76-BD38-AC5E522FAAA4}|SLACalculator.Infrastructure\\SLACalculator.Infrastructure.csproj|c:\\users\\toqah\\onedrive\\desktop\\tejoury task\\backend\\slacalculator\\slacalculator.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5318D4BF-6DBD-4B76-BD38-AC5E522FAAA4}|SLACalculator.Infrastructure\\SLACalculator.Infrastructure.csproj|solutionrelative:slacalculator.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D19C4B-F37A-4803-BEC3-318F2AB19742}|SLACalculator.Domain\\SLACalculator.Domain.csproj|c:\\users\\toqah\\onedrive\\desktop\\tejoury task\\backend\\slacalculator\\slacalculator.domain\\entities\\workinghours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D19C4B-F37A-4803-BEC3-318F2AB19742}|SLACalculator.Domain\\SLACalculator.Domain.csproj|solutionrelative:slacalculator.domain\\entities\\workinghours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5318D4BF-6DBD-4B76-BD38-AC5E522FAAA4}|SLACalculator.Infrastructure\\SLACalculator.Infrastructure.csproj|c:\\users\\toqah\\onedrive\\desktop\\tejoury task\\backend\\slacalculator\\slacalculator.infrastructure\\migrations\\20251125145923_add-sla-tables-and-seeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5318D4BF-6DBD-4B76-BD38-AC5E522FAAA4}|SLACalculator.Infrastructure\\SLACalculator.Infrastructure.csproj|solutionrelative:slacalculator.infrastructure\\migrations\\20251125145923_add-sla-tables-and-seeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D24D4BDB-63B4-4F75-8B0B-A81F3D78EA64}|SLACalculator\\SLACalculator.csproj|c:\\users\\toqah\\onedrive\\desktop\\tejoury task\\backend\\slacalculator\\slacalculator\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D24D4BDB-63B4-4F75-8B0B-A81F3D78EA64}|SLACalculator\\SLACalculator.csproj|solutionrelative:slacalculator\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F566B338-E67E-4F4E-9622-1EB17875A8AD}|SLACalculator.Application\\SLACalculator.Application.csproj|c:\\users\\toqah\\onedrive\\desktop\\tejoury task\\backend\\slacalculator\\slacalculator.application\\features\\sla\\queries\\calculateslaquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F566B338-E67E-4F4E-9622-1EB17875A8AD}|SLACalculator.Application\\SLACalculator.Application.csproj|solutionrelative:slacalculator.application\\features\\sla\\queries\\calculateslaquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F566B338-E67E-4F4E-9622-1EB17875A8AD}|SLACalculator.Application\\SLACalculator.Application.csproj|c:\\users\\toqah\\onedrive\\desktop\\tejoury task\\backend\\slacalculator\\slacalculator.application\\dtos\\calculateslarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F566B338-E67E-4F4E-9622-1EB17875A8AD}|SLACalculator.Application\\SLACalculator.Application.csproj|solutionrelative:slacalculator.application\\dtos\\calculateslarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F566B338-E67E-4F4E-9622-1EB17875A8AD}|SLACalculator.Application\\SLACalculator.Application.csproj|c:\\users\\toqah\\onedrive\\desktop\\tejoury task\\backend\\slacalculator\\slacalculator.application\\common\\interfaces\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F566B338-E67E-4F4E-9622-1EB17875A8AD}|SLACalculator.Application\\SLACalculator.Application.csproj|solutionrelative:slacalculator.application\\common\\interfaces\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D19C4B-F37A-4803-BEC3-318F2AB19742}|SLACalculator.Domain\\SLACalculator.Domain.csproj|c:\\users\\toqah\\onedrive\\desktop\\tejoury task\\backend\\slacalculator\\slacalculator.domain\\entities\\businessclosure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D19C4B-F37A-4803-BEC3-318F2AB19742}|SLACalculator.Domain\\SLACalculator.Domain.csproj|solutionrelative:slacalculator.domain\\entities\\businessclosure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D19C4B-F37A-4803-BEC3-318F2AB19742}|SLACalculator.Domain\\SLACalculator.Domain.csproj|c:\\users\\toqah\\onedrive\\desktop\\tejoury task\\backend\\slacalculator\\slacalculator.domain\\entities\\slaconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D19C4B-F37A-4803-BEC3-318F2AB19742}|SLACalculator.Domain\\SLACalculator.Domain.csproj|solutionrelative:slacalculator.domain\\entities\\slaconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D19C4B-F37A-4803-BEC3-318F2AB19742}|SLACalculator.Domain\\SLACalculator.Domain.csproj|c:\\users\\toqah\\onedrive\\desktop\\tejoury task\\backend\\slacalculator\\slacalculator.domain\\entities\\workingday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D19C4B-F37A-4803-BEC3-318F2AB19742}|SLACalculator.Domain\\SLACalculator.Domain.csproj|solutionrelative:slacalculator.domain\\entities\\workingday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D19C4B-F37A-4803-BEC3-318F2AB19742}|SLACalculator.Domain\\SLACalculator.Domain.csproj|c:\\users\\toqah\\onedrive\\desktop\\tejoury task\\backend\\slacalculator\\slacalculator.domain\\enums\\priority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D19C4B-F37A-4803-BEC3-318F2AB19742}|SLACalculator.Domain\\SLACalculator.Domain.csproj|solutionrelative:slacalculator.domain\\enums\\priority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D19C4B-F37A-4803-BEC3-318F2AB19742}|SLACalculator.Domain\\SLACalculator.Domain.csproj|c:\\users\\toqah\\onedrive\\desktop\\tejoury task\\backend\\slacalculator\\slacalculator.domain\\slacalculator.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{71D19C4B-F37A-4803-BEC3-318F2AB19742}|SLACalculator.Domain\\SLACalculator.Domain.csproj|solutionrelative:slacalculator.domain\\slacalculator.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F566B338-E67E-4F4E-9622-1EB17875A8AD}|SLACalculator.Application\\SLACalculator.Application.csproj|c:\\users\\toqah\\onedrive\\desktop\\tejoury task\\backend\\slacalculator\\slacalculator.application\\slacalculator.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F566B338-E67E-4F4E-9622-1EB17875A8AD}|SLACalculator.Application\\SLACalculator.Application.csproj|solutionrelative:slacalculator.application\\slacalculator.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Complaint.cs",
+              "DocumentMoniker": "C:\\Users\\toqah\\OneDrive\\Desktop\\TeJoury Task\\Backend\\SLACalculator\\SLACalculator.Domain\\Entities\\Complaint.cs",
+              "RelativeDocumentMoniker": "SLACalculator.Domain\\Entities\\Complaint.cs",
+              "ToolTip": "C:\\Users\\toqah\\OneDrive\\Desktop\\TeJoury Task\\Backend\\SLACalculator\\SLACalculator.Domain\\Entities\\Complaint.cs",
+              "RelativeToolTip": "SLACalculator.Domain\\Entities\\Complaint.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T13:37:25.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalculateSlaQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\toqah\\OneDrive\\Desktop\\TeJoury Task\\Backend\\SLACalculator\\SLACalculator.Application\\Features\\SLA\\Queries\\CalculateSlaQueryHandler.cs",
+              "RelativeDocumentMoniker": "SLACalculator.Application\\Features\\SLA\\Queries\\CalculateSlaQueryHandler.cs",
+              "ToolTip": "C:\\Users\\toqah\\OneDrive\\Desktop\\TeJoury Task\\Backend\\SLACalculator\\SLACalculator.Application\\Features\\SLA\\Queries\\CalculateSlaQueryHandler.cs",
+              "RelativeToolTip": "SLACalculator.Application\\Features\\SLA\\Queries\\CalculateSlaQueryHandler.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwBMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T13:54:24.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CalculateSlaResponse.cs",
+              "DocumentMoniker": "C:\\Users\\toqah\\OneDrive\\Desktop\\TeJoury Task\\Backend\\SLACalculator\\SLACalculator.Application\\DTOs\\CalculateSlaResponse.cs",
+              "RelativeDocumentMoniker": "SLACalculator.Application\\DTOs\\CalculateSlaResponse.cs",
+              "ToolTip": "C:\\Users\\toqah\\OneDrive\\Desktop\\TeJoury Task\\Backend\\SLACalculator\\SLACalculator.Application\\DTOs\\CalculateSlaResponse.cs",
+              "RelativeToolTip": "SLACalculator.Application\\DTOs\\CalculateSlaResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T13:49:48.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\toqah\\OneDrive\\Desktop\\TeJoury Task\\Backend\\SLACalculator\\SLACalculator.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "SLACalculator.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\toqah\\OneDrive\\Desktop\\TeJoury Task\\Backend\\SLACalculator\\SLACalculator.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "SLACalculator.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T14:31:42.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SLACalculator.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\toqah\\OneDrive\\Desktop\\TeJoury Task\\Backend\\SLACalculator\\SLACalculator.Infrastructure\\SLACalculator.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "SLACalculator.Infrastructure\\SLACalculator.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\toqah\\OneDrive\\Desktop\\TeJoury Task\\Backend\\SLACalculator\\SLACalculator.Infrastructure\\SLACalculator.Infrastructure.csproj",
+              "RelativeToolTip": "SLACalculator.Infrastructure\\SLACalculator.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-25T13:28:35.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\toqah\\OneDrive\\Desktop\\TeJoury Task\\Backend\\SLACalculator\\SLACalculator.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "SLACalculator.Application\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\toqah\\OneDrive\\Desktop\\TeJoury Task\\Backend\\SLACalculator\\SLACalculator.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "SLACalculator.Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBUAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T14:30:53.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ISlaCalculatorService.cs",
+              "DocumentMoniker": "C:\\Users\\toqah\\OneDrive\\Desktop\\TeJoury Task\\Backend\\SLACalculator\\SLACalculator.Application\\Common\\Interfaces\\ISlaCalculatorService.cs",
+              "RelativeDocumentMoniker": "SLACalculator.Application\\Common\\Interfaces\\ISlaCalculatorService.cs",
+              "ToolTip": "C:\\Users\\toqah\\OneDrive\\Desktop\\TeJoury Task\\Backend\\SLACalculator\\SLACalculator.Application\\Common\\Interfaces\\ISlaCalculatorService.cs",
+              "RelativeToolTip": "SLACalculator.Application\\Common\\Interfaces\\ISlaCalculatorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T13:52:12.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\toqah\\OneDrive\\Desktop\\TeJoury Task\\Backend\\SLACalculator\\SLACalculator\\Program.cs",
+              "RelativeDocumentMoniker": "SLACalculator\\Program.cs",
+              "ToolTip": "C:\\Users\\toqah\\OneDrive\\Desktop\\TeJoury Task\\Backend\\SLACalculator\\SLACalculator\\Program.cs",
+              "RelativeToolTip": "SLACalculator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T14:37:06.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SlaController.cs",
+              "DocumentMoniker": "C:\\Users\\toqah\\OneDrive\\Desktop\\TeJoury Task\\Backend\\SLACalculator\\SLACalculator\\Controllers\\SlaController.cs",
+              "RelativeDocumentMoniker": "SLACalculator\\Controllers\\SlaController.cs",
+              "ToolTip": "C:\\Users\\toqah\\OneDrive\\Desktop\\TeJoury Task\\Backend\\SLACalculator\\SLACalculator\\Controllers\\SlaController.cs",
+              "RelativeToolTip": "SLACalculator\\Controllers\\SlaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T14:44:55.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SlaCalculatorService.cs",
+              "DocumentMoniker": "C:\\Users\\toqah\\OneDrive\\Desktop\\TeJoury Task\\Backend\\SLACalculator\\SLACalculator.Infrastructure\\Services\\SlaCalculatorService.cs",
+              "RelativeDocumentMoniker": "SLACalculator.Infrastructure\\Services\\SlaCalculatorService.cs",
+              "ToolTip": "C:\\Users\\toqah\\OneDrive\\Desktop\\TeJoury Task\\Backend\\SLACalculator\\SLACalculator.Infrastructure\\Services\\SlaCalculatorService.cs",
+              "RelativeToolTip": "SLACalculator.Infrastructure\\Services\\SlaCalculatorService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwEMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T14:16:25.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WorkingHours.cs",
+              "DocumentMoniker": "C:\\Users\\toqah\\OneDrive\\Desktop\\TeJoury Task\\Backend\\SLACalculator\\SLACalculator.Domain\\Entities\\WorkingHours.cs",
+              "RelativeDocumentMoniker": "SLACalculator.Domain\\Entities\\WorkingHours.cs",
+              "ToolTip": "C:\\Users\\toqah\\OneDrive\\Desktop\\TeJoury Task\\Backend\\SLACalculator\\SLACalculator.Domain\\Entities\\WorkingHours.cs",
+              "RelativeToolTip": "SLACalculator.Domain\\Entities\\WorkingHours.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T13:40:29.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\toqah\\OneDrive\\Desktop\\TeJoury Task\\Backend\\SLACalculator\\SLACalculator.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "SLACalculator.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\toqah\\OneDrive\\Desktop\\TeJoury Task\\Backend\\SLACalculator\\SLACalculator.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "SLACalculator.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwCQAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T13:56:03.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CalculateSlaQuery.cs",
+              "DocumentMoniker": "C:\\Users\\toqah\\OneDrive\\Desktop\\TeJoury Task\\Backend\\SLACalculator\\SLACalculator.Application\\Features\\SLA\\Queries\\CalculateSlaQuery.cs",
+              "RelativeDocumentMoniker": "SLACalculator.Application\\Features\\SLA\\Queries\\CalculateSlaQuery.cs",
+              "ToolTip": "C:\\Users\\toqah\\OneDrive\\Desktop\\TeJoury Task\\Backend\\SLACalculator\\SLACalculator.Application\\Features\\SLA\\Queries\\CalculateSlaQuery.cs",
+              "RelativeToolTip": "SLACalculator.Application\\Features\\SLA\\Queries\\CalculateSlaQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T13:53:35.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\toqah\\OneDrive\\Desktop\\TeJoury Task\\Backend\\SLACalculator\\SLACalculator\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SLACalculator\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\toqah\\OneDrive\\Desktop\\TeJoury Task\\Backend\\SLACalculator\\SLACalculator\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SLACalculator\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-25T15:37:40.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SLACalculator.csproj",
+              "DocumentMoniker": "C:\\Users\\toqah\\OneDrive\\Desktop\\TeJoury Task\\Backend\\SLACalculator\\SLACalculator\\SLACalculator.csproj",
+              "RelativeDocumentMoniker": "SLACalculator\\SLACalculator.csproj",
+              "ToolTip": "C:\\Users\\toqah\\OneDrive\\Desktop\\TeJoury Task\\Backend\\SLACalculator\\SLACalculator\\SLACalculator.csproj",
+              "RelativeToolTip": "SLACalculator\\SLACalculator.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-25T14:56:39.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20251125145923_add-sla-tables-and-seeding.cs",
+              "DocumentMoniker": "C:\\Users\\toqah\\OneDrive\\Desktop\\TeJoury Task\\Backend\\SLACalculator\\SLACalculator.Infrastructure\\Migrations\\20251125145923_add-sla-tables-and-seeding.cs",
+              "RelativeDocumentMoniker": "SLACalculator.Infrastructure\\Migrations\\20251125145923_add-sla-tables-and-seeding.cs",
+              "ToolTip": "C:\\Users\\toqah\\OneDrive\\Desktop\\TeJoury Task\\Backend\\SLACalculator\\SLACalculator.Infrastructure\\Migrations\\20251125145923_add-sla-tables-and-seeding.cs",
+              "RelativeToolTip": "SLACalculator.Infrastructure\\Migrations\\20251125145923_add-sla-tables-and-seeding.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T14:59:23.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\toqah\\OneDrive\\Desktop\\TeJoury Task\\Backend\\SLACalculator\\SLACalculator\\appsettings.json",
+              "RelativeDocumentMoniker": "SLACalculator\\appsettings.json",
+              "ToolTip": "C:\\Users\\toqah\\OneDrive\\Desktop\\TeJoury Task\\Backend\\SLACalculator\\SLACalculator\\appsettings.json",
+              "RelativeToolTip": "SLACalculator\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-25T14:50:21.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CalculateSlaRequest.cs",
+              "DocumentMoniker": "C:\\Users\\toqah\\OneDrive\\Desktop\\TeJoury Task\\Backend\\SLACalculator\\SLACalculator.Application\\DTOs\\CalculateSlaRequest.cs",
+              "RelativeDocumentMoniker": "SLACalculator.Application\\DTOs\\CalculateSlaRequest.cs",
+              "ToolTip": "C:\\Users\\toqah\\OneDrive\\Desktop\\TeJoury Task\\Backend\\SLACalculator\\SLACalculator.Application\\DTOs\\CalculateSlaRequest.cs",
+              "RelativeToolTip": "SLACalculator.Application\\DTOs\\CalculateSlaRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T13:49:03.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\toqah\\OneDrive\\Desktop\\TeJoury Task\\Backend\\SLACalculator\\SLACalculator.Application\\Common\\Interfaces\\IApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "SLACalculator.Application\\Common\\Interfaces\\IApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\toqah\\OneDrive\\Desktop\\TeJoury Task\\Backend\\SLACalculator\\SLACalculator.Application\\Common\\Interfaces\\IApplicationDbContext.cs",
+              "RelativeToolTip": "SLACalculator.Application\\Common\\Interfaces\\IApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T14:00:06.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BusinessClosure.cs",
+              "DocumentMoniker": "C:\\Users\\toqah\\OneDrive\\Desktop\\TeJoury Task\\Backend\\SLACalculator\\SLACalculator.Domain\\Entities\\BusinessClosure.cs",
+              "RelativeDocumentMoniker": "SLACalculator.Domain\\Entities\\BusinessClosure.cs",
+              "ToolTip": "C:\\Users\\toqah\\OneDrive\\Desktop\\TeJoury Task\\Backend\\SLACalculator\\SLACalculator.Domain\\Entities\\BusinessClosure.cs",
+              "RelativeToolTip": "SLACalculator.Domain\\Entities\\BusinessClosure.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwA4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T13:44:14.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SlaConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\toqah\\OneDrive\\Desktop\\TeJoury Task\\Backend\\SLACalculator\\SLACalculator.Domain\\Entities\\SlaConfiguration.cs",
+              "RelativeDocumentMoniker": "SLACalculator.Domain\\Entities\\SlaConfiguration.cs",
+              "ToolTip": "C:\\Users\\toqah\\OneDrive\\Desktop\\TeJoury Task\\Backend\\SLACalculator\\SLACalculator.Domain\\Entities\\SlaConfiguration.cs",
+              "RelativeToolTip": "SLACalculator.Domain\\Entities\\SlaConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwBAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T13:46:44.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "WorkingDay.cs",
+              "DocumentMoniker": "C:\\Users\\toqah\\OneDrive\\Desktop\\TeJoury Task\\Backend\\SLACalculator\\SLACalculator.Domain\\Entities\\WorkingDay.cs",
+              "RelativeDocumentMoniker": "SLACalculator.Domain\\Entities\\WorkingDay.cs",
+              "ToolTip": "C:\\Users\\toqah\\OneDrive\\Desktop\\TeJoury Task\\Backend\\SLACalculator\\SLACalculator.Domain\\Entities\\WorkingDay.cs",
+              "RelativeToolTip": "SLACalculator.Domain\\Entities\\WorkingDay.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T13:39:07.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Priority.cs",
+              "DocumentMoniker": "C:\\Users\\toqah\\OneDrive\\Desktop\\TeJoury Task\\Backend\\SLACalculator\\SLACalculator.Domain\\Enums\\Priority.cs",
+              "RelativeDocumentMoniker": "SLACalculator.Domain\\Enums\\Priority.cs",
+              "ToolTip": "C:\\Users\\toqah\\OneDrive\\Desktop\\TeJoury Task\\Backend\\SLACalculator\\SLACalculator.Domain\\Enums\\Priority.cs",
+              "RelativeToolTip": "SLACalculator.Domain\\Enums\\Priority.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T13:36:38.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SLACalculator.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\toqah\\OneDrive\\Desktop\\TeJoury Task\\Backend\\SLACalculator\\SLACalculator.Domain\\SLACalculator.Domain.csproj",
+              "RelativeDocumentMoniker": "SLACalculator.Domain\\SLACalculator.Domain.csproj",
+              "ToolTip": "C:\\Users\\toqah\\OneDrive\\Desktop\\TeJoury Task\\Backend\\SLACalculator\\SLACalculator.Domain\\SLACalculator.Domain.csproj",
+              "RelativeToolTip": "SLACalculator.Domain\\SLACalculator.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-25T13:28:30.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SLACalculator.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\toqah\\OneDrive\\Desktop\\TeJoury Task\\Backend\\SLACalculator\\SLACalculator.Application\\SLACalculator.Application.csproj",
+              "RelativeDocumentMoniker": "SLACalculator.Application\\SLACalculator.Application.csproj",
+              "ToolTip": "C:\\Users\\toqah\\OneDrive\\Desktop\\TeJoury Task\\Backend\\SLACalculator\\SLACalculator.Application\\SLACalculator.Application.csproj",
+              "RelativeToolTip": "SLACalculator.Application\\SLACalculator.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-25T13:28:23.408Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

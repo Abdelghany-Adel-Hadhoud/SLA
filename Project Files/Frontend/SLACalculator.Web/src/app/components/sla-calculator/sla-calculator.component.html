@@ -1,0 +1,127 @@
+<div class="sla-calculator-container">
+  <div class="card">
+    <h1 class="title">SLA Calculator</h1>
+
+    <!-- Input Form -->
+    <div class="form-section">
+      <div class="form-group">
+        <label for="priority">Complaint Priority *</label>
+        <select 
+          id="priority" 
+          [(ngModel)]="selectedPriority" 
+          class="form-control">
+          <option *ngFor="let p of priorities" [value]="p.value">
+            {{ p.label }}
+          </option>
+        </select>
+      </div>
+
+      <div class="form-row">
+        <div class="form-group">
+          <label for="captureDate">Capture Date *</label>
+          <input 
+            type="date" 
+            id="captureDate" 
+            [(ngModel)]="captureDate" 
+            class="form-control"
+            required>
+        </div>
+
+        <div class="form-group">
+          <label for="captureTime">Capture Time *</label>
+          <input 
+            type="time" 
+            id="captureTime" 
+            [(ngModel)]="captureTime" 
+            class="form-control"
+            required>
+        </div>
+      </div>
+
+      <div class="form-group">
+        <label for="fileUpload">Upload Files (Optional)</label>
+        <input 
+          type="file" 
+          id="fileUpload" 
+          (change)="onFileSelected($event)" 
+          class="form-control"
+          multiple
+          accept="image/*,.pdf">
+        <small class="help-text">You can upload screenshots or documents related to the complaint</small>
+        
+        <div *ngIf="selectedFiles.length > 0" class="file-list">
+          <p><strong>Selected Files:</strong></p>
+          <ul>
+            <li *ngFor="let file of selectedFiles">{{ file.name }} ({{ (file.size / 1024).toFixed(2) }} KB)</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="button-group">
+        <button 
+          (click)="calculateSla()" 
+          [disabled]="loading || !captureDate || !captureTime"
+          class="btn btn-primary">
+          <span *ngIf="!loading">Calculate SLA</span>
+          <span *ngIf="loading">Calculating...</span>
+        </button>
+
+        <button 
+          (click)="reset()" 
+          class="btn btn-secondary"
+          [disabled]="loading">
+          Reset
+        </button>
+      </div>
+    </div>
+
+    <!-- Error Message -->
+    <div *ngIf="error" class="alert alert-error">
+      <strong>Error:</strong> {{ error }}
+    </div>
+
+    <!-- Loading Spinner -->
+    <div *ngIf="loading" class="loading-spinner">
+      <div class="spinner"></div>
+      <p>Calculating SLA deadline...</p>
+    </div>
+
+    <!-- Results Section -->
+    <div *ngIf="slaResult && !loading" class="results-section">
+      <h2 class="results-title">SLA Calculation Results</h2>
+      
+      <div class="result-card">
+        <div class="result-item">
+          <span class="result-label">Priority:</span>
+          <span class="result-value priority-badge priority-{{ slaResult.priority }}">
+            {{ getPriorityLabel(slaResult.priority) }}
+          </span>
+        </div>
+
+        <div class="result-item">
+          <span class="result-label">Complaint Captured:</span>
+          <span class="result-value">{{ formatDateTime(slaResult.captureDateTime) }}</span>
+        </div>
+
+        <div class="result-item highlight">
+          <span class="result-label">SLA Expiration:</span>
+          <span class="result-value expiration">{{ formatDateTime(slaResult.slaExpirationDateTime) }}</span>
+        </div>
+
+        <div class="result-item">
+          <span class="result-label">Resolution Time:</span>
+          <span class="result-value">{{ slaResult.slaTimeInHours }} business hours</span>
+        </div>
+
+        <div *ngIf="uploadedFileNames.length > 0" class="result-item">
+          <span class="result-label">Uploaded Files:</span>
+          <div class="uploaded-files">
+            <span *ngFor="let fileName of uploadedFileNames" class="file-badge">
+              {{ fileName }}
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
